@@ -1,0 +1,232 @@
+from StdSuites import string
+
+intxt = raw_input("Type your FASTA nucleotide sequence without the header: ")
+print "Here is the FASTA nucleotide sequence you said: ", intxt
+
+print "Here is the translation of this sequence: "
+outtext = ""
+
+foundStartingPoint = False
+startingPoint = 0
+
+
+for index in range(len(intxt)):
+    currentTriple = intxt[index:index+3]
+
+    if (currentTriple == "AGT"):
+        foundStartingPoint = True
+        break
+
+if not foundStartingPoint:
+    print "-"
+else:
+    for index in range(startingPoint, len(intxt), 3):
+        currentTriple = intxt[index:index+3]
+        if currentTriple == "AGT":
+            outtxt += "M"
+        elif currentTriple == "TTT" or "UUU":
+            outtxt += "F"
+        else:
+            outtxt += "-"
+            break
+
+
+for index in range(len(intxt)):
+    currentTriple = intxt[index:index+3]
+    if foundStartingPoint == True:
+        print "M"
+        if currentTriple == "TTT" or currentTriple == "UUU":
+            print "F"
+        elif currentTriple == "TTC" or currentTriple == "UUC":
+            print "F"
+        elif currentTriple == "TTA" or currentTriple == "UUA":
+            print "L"
+        elif currentTriple == "TTG" or currentTriple == "UUG":
+            print "L"
+        elif currentTriple == "CTT" or currentTriple == "CUU":
+            print "L"
+        elif currentTriple == "CTC" or currentTriple == "CUC":
+            print "L"
+        elif currentTriple == "CTA" or currentTriple == "CUA":
+            print "L"
+        elif currentTriple == "CTG" or currentTriple == "CUG":
+            print "L"
+        elif currentTriple == "ATT" or currentTriple == "AUU":
+            print "I"
+        elif currentTriple == "ATC" or currentTriple == "AUC":
+            print "I"
+        elif currentTriple == "ATA" or currentTriple == "AUA":
+            print "I"
+        elif currentTriple == "GTT" or currentTriple == "GUU":
+            print "V"
+        elif currentTriple == "GTC" or currentTriple == "GUC":
+            print "V"
+        elif currentTriple == "GTA" or currentTriple == "GUA":
+            print "V"
+        elif currentTriple == "GTG" or currentTriple == "GUG":
+            print "V"
+        elif currentTriple == "TCT" or currentTriple == "UCU":
+            print "S"
+        elif currentTriple == "TCC" or currentTriple == "UCC":
+            print "S"
+        elif currentTriple == "TCA" or currentTriple == "UCA":
+            print "S"
+        elif currentTriple == "TCG" or currentTriple == "UCG":
+            print "S"
+        elif currentTriple == "CCT" or currentTriple == "CCU":
+            print "P"
+        elif currentTriple == "CCC":
+            print "P"
+        elif currentTriple == "CCA":
+            print "P"
+        elif currentTriple == "CCG":
+            print "P"
+        elif currentTriple == "ACT" or currentTriple == "ACU":
+            print "T"
+        elif currentTriple == "ACC":
+            print "T"
+        elif currentTriple == "ACA":
+            print "T"
+        elif currentTriple == "ACG":
+            print "T"
+        elif currentTriple == "GCT" or currentTriple == "GCU":
+            print "A"
+        elif currentTriple == "GCC":
+            print "A"
+        elif currentTriple == "GCA":
+            print "A"
+        elif currentTriple == "GCG":
+            print "A"
+        elif currentTriple == "TAT" or currentTriple == "UAU":
+            print "Y"
+        elif currentTriple == "TAC" or currentTriple == "UAC":
+            print "Y"
+        elif currentTriple == "CAT" or currentTriple == "CAU":
+            print "H"
+        elif currentTriple == "CAC":
+            print "H"
+        elif currentTriple == "CAA":
+            print "Q"
+        elif currentTriple == "CAG":
+            print "Q"
+        elif currentTriple == "AAT" or currentTriple == "AAU":
+            print "N"
+        elif currentTriple == "AAC":
+            print "N"
+        elif currentTriple == "AAA":
+            print "K"
+        elif currentTriple == "AAG":
+            print "K"
+        elif currentTriple == "GAT" or currentTriple == "GAU":
+            print "D"
+        elif currentTriple == "GAC":
+            print "D"
+        elif currentTriple == "GAA":
+            print "E"
+        elif currentTriple == "TGT" or currentTriple == "UGU":
+            print "C"
+        elif currentTriple == "TGC" or currentTriple == "UGC":
+            print "C"
+        elif currentTriple == "TGG" or currentTriple == "UGG":
+            print "W"
+        elif currentTriple == "CGT" or currentTriple == "CGU":
+            print "R"
+        elif currentTriple == "CGC":
+            print "R"
+        elif currentTriple == "CGA":
+            print "R"
+        elif currentTriple == "CGG":
+            print "R"
+        elif currentTriple == "AGT" or currentTriple == "AGU":
+            print "S"
+        elif currentTriple == "AGC":
+            print "S"
+        elif currentTriple == "AGA":
+            print "R"
+        elif currentTriple == "AGG":
+            print "R"
+        elif currentTriple == "GGT" or currentTriple == "GGU":
+            print "G"
+        elif currentTriple == "GGC":
+            print "G"
+        elif currentTriple == "GGA":
+            print "G"
+        elif currentTriple == "GGG":
+            print "G"
+
+        elif (currentTriple == "UAA" or currentTriple == "UAG" or currentTriple == "UGA" or currentTriple == "TAA" or currentTriple == "TAG" or currentTriple == "TGA"):
+            print "-"
+        else:
+            print "-"
+
+print(outtxt)
+
+
+rvtxt = txt # initial string
+reversedString = []
+index = len(rvtxt) # calculate string length
+while index > 0:
+    reversedString += rvtxt[ index - 1]
+    index = index - 1
+
+print "Also here's the reverse translation: "
+
+
+
+--------------------
+
+
+# get the input string
+inputString = input()
+
+# create the output string, it starts out as empty
+outputString = ""
+
+# We'll use this boolean variable to determine whether
+# we could find the starting point "AGT", meaning the input
+# is valid
+foundStartingPoint = False
+
+# Where we should start
+startingPoint = 0
+
+for index in range(len(inputString)):
+    # get first 3 characters starting from current position
+    currentTriple = inputString[index:index + 3]
+
+    # check if it's the starting point
+    if (currentTriple == "AGT"):
+        # we've found it. "break" exits the loop early
+        # let's also keep track of where the "AGT" begins
+        foundStartingPoint = True
+        startingPoint = index
+        break
+
+# if we don't find it, we'll continue with the loop
+
+# Let's see if we found "AGT"
+if not foundStartingPoint:
+    # We didn't find it, the input is invalid
+    print(">:(")
+else:
+    # We found it, let's do the conversion
+    # this is a different kind of for loop
+    # it will start with index being equal to startingPoint
+    # and the value of index will go up by 3 each time
+    for index in range(startingPoint, len(inputString), 3):
+        # get the triple
+        currentTriple = inputString[index:index + 3]
+
+        # Based on what triple it is, add the
+        # right thing to the output string
+        if currentTriple == "AGT":
+            outputString += "M"
+        elif currentTriple == "TTT":
+            outputString += "F"
+        # check for all other triples here with
+        # more elifs
+        else:
+            outputString += "-"
+
+    # Now we're out of the loop, we have our outputString, so print it
+    print(outputString)
