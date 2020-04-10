@@ -1,0 +1,1 @@
+>QIK02963 is used as representative protein seq, but all seqs were clustered into one, so no other defining data out of it all

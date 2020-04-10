@@ -1,0 +1,13 @@
+Cluster 1: representative sequence =  >MT121215
+seqs that fall under this cluster: 369/372
+So: the rep. seq is probably a solid one to test other sequences against, as a 'reference' genome
+lowest similarity = >MT198651 @ 95.17% and >MT259259 @ +/94.95%
+---Looking back at these least similar ones, it is because they have more gaps in their partial genomes compared to the complete genomes
+
+
+
+Cluster 2: representative sequence = >MT262993
+only seq in this one, probably because this one is far too different to be clustered with the others
+
+Cluster 3: representative sequence = >MT256917
+only other seq: >MT256918 @93% similarity
