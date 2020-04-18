@@ -20,3 +20,6 @@ Group 2 (Joseph and Gretta). Decide what software will be used to analyze protei
 3) Everyone - take a look at clades and look for interesting patterns
 4) Joseph/Christian - Use accession # from Kaitlyn's tree strains, download protein FASTAs for each accession #, and merge all files into 1.
 5) Christian - Perform CD-HIT on mother-of-all FASTA and change cutoff to see how # of clusters changes.
+
+## Friday, April 17, 2020:
+Redo analyses for April 10th with corrected protocols.
