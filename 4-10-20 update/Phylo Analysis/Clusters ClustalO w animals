@@ -41,7 +41,7 @@
 |              Taiwan (up to down tree)                  |                          Closest relation (most -> least)                           |    
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | MT066175.1_Taiwan_NTU01_hum_Jan312020                  |                     MT291836.1_CHN_Wuhan_IMEBJ07_hum_Jan292020                      |
-| MT066176.1_Taiwan_NTU02_hum_Feb52020                   |                        MT072688.1_Nepal_61TW_hum_Jan132020                          |
+| MT066176.1_Taiwan_NTU02_hum_Feb52020                   | MT072688.1_Nepal_61TW_hum_Jan132020  | MT039888.1_USA_MA_MA1_hum_Jan292020          |
 | MT192759.1_Taiwan_CGMHCGU01_hum_Jan252020              | MT066176.1_Taiwan_NTU02_hum_Feb52020 | LC529905.1_Jap_Tokyo_TKYE6182_RNAhum_Jan2020 | 
 
 
