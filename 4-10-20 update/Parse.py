@@ -22,7 +22,7 @@ for i in range(len(lines)):
         #proteinName = newHeader[1].split("=")[1]
         #proteinID = newHeader[2].split("=")[1]
         
-        newHeader = ">" + accessionNumber + "," +  proteinName + "," + proteinID + "\n"
+        newHeader = ">" + proteinName + "," + proteinID + "," + accessionNumber + "\n"
         lines[i] = newHeader
 
 file.close()
