@@ -23,3 +23,8 @@ Group 2 (Joseph and Gretta). Decide what software will be used to analyze protei
 
 ## Friday, April 17, 2020:
 Redo analyses for April 10th with corrected protocols.
+
+## Friday, April 24, 2020:
+1) Add your individual methods/figures to Google Doc
+2) Kaitlyn - Add 2 extra MERS and 2 extra SARS (HUMAN INFECTIONS) to pool
+3) Christian - Add Kaitlyn's new accessions to MOAs and parse using Jupyter 
