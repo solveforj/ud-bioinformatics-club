@@ -179,28 +179,58 @@ MT126808.1
 ---------------------OTHER Organisms-------------------------
 
 >Bat
-NC_034440.1
+NC_034440.1  
 
 >Turkey
-NC_010800.1
+NC_010800.1  
 
 >Avian
-NC_001451.1
+NC_001451.1  
 
 >Rat
-NC_012936.1
-
->Beta
-NC_038294.1
-
->SARS
-NC_004718.3
+NC_012936.1    
 
 >Bovine
-NC_003045.1
+NC_003045.1  
 
 >Murinecorona_murine_hepatitus
-NC_001846
+NC_001846   
 
 >ALPHACORONAVIRUS1_Feline_infectious_peritonitis
-NC_002306.3
+NC_002306.3  
+
+
+-------------------------SARS-MERS-Beta---------------------------------
+
+>SARS_ref
+NC_004718.3
+
+>SARS_USA
+MK062184.1
+
+>SARS_HongKong
+GU553363.1
+
+>SARS_China
+DQ640652.1
+
+>MERS_ref
+NC_019843.3
+
+>MERS_SouthKorea
+KT029139.1
+
+>MERS_UnitArabEmir
+KP209311.1
+
+>MERS_SaudiArabia
+KT026455.1
+
+>Betacoronavirus_ref
+NC_038294.1  
+
+>Betacoronavirus_China
+NC_026011.1
+
+>Betacoronavirus_Jordan
+KC776174.1
