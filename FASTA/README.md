@@ -1,4 +1,4 @@
-## Instructions to use 
+## Instructions to use Python on Jupyter
 1) Upload FASTA files with the titles "human_only_MOA_fastas_86.txt" and "MOA_fastas_96_genomes.txt" into this folder.
 2) Upload this folder into Jupyter.  Thus, in Jupyter's root directory, there will be a "FASTA" folder.
 3) Edit Parse.py to reflect which file you want to parse and output.
