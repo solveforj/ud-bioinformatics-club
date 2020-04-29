@@ -1,19 +1,18 @@
 ---------------------CHN-------------------------
 
+>CHN
+NC_045512.2
+MN908947.3
 
 >CHN_WUHAN
-NC_045512.2 
-MT291836.1
-MT291833.1
 MT291827.1
 MT291826.1
 MT259231.1
 MT259228.1
 MN996531.1
 MT019531.1
-MN908947.3
 
->CHN_Fuyang
+>CHN_Anhui_Fuyang
 MT281577.1 
 
 >CHN_Yunnan 
@@ -26,6 +25,8 @@ MT121215.1
 MT039873.1
 
 >CHN_Beijing
+MT291836.1
+MT291833.1
 MT135044.1 
 MT135043.1 
 MT135042.1 
@@ -40,13 +41,15 @@ MT123291.2
 
 ---------------------USA-------------------------
 
+>USA
+MT293177.1 
+
 >USA_FL
 MT276330.1 
 MT276329.1 
 
 >USA_OR
 MT276328.1 
-MT293174.1 
 
 >USA_GA
 MT276327.1 
@@ -81,14 +84,11 @@ MT188339.1
 MT258382.1 
 MT258379.1 
 MT192765.1 
- 
-
->USA_CT
-MT293195.1 
-MT293177.1 
-MT293176.1 
 
 >USA_WA
+MT293195.1 
+MT293176.1 
+MT293174.1 
 MT293213.1
 MT293199.1
 MT020880.1
@@ -115,10 +115,10 @@ MT159705.1
 
 ---------------------Other Asia-------------------------
 
->Japan_Tokyo
+>Japan
 LC529905.1 
 
->Vietnam
+>Vietnam_HoChiMinhCity
 MT192773.1
 MT192772.1
 
@@ -137,7 +137,7 @@ MT012098.1
 >South_Korea
 MT039890.1
 
->Pakistan_Manga
+>Pakistan_KPK
 MT262993.1 
 
 >Pakistan_Gilgit
@@ -156,14 +156,16 @@ MT276597.1
 >Sweden
 MT093571.1
 
->Spain_Valencia
+>Spain
 MT292574.1
 MT292573.1
 MT292571.1
+
+>Spain_Valencia
 MT233523.1
 MT233519.1
 
->Australia
+>Australia_Victoria
 MT007544.1
 
 ---------------------South America-------------------------
@@ -203,9 +205,6 @@ KT026455.1
 
 >Betacoronavirus_ref
 NC_038294.1  
-
->Betacoronavirus_China
-NC_026011.1
 
 >Betacoronavirus_Jordan
 KC776174.1
