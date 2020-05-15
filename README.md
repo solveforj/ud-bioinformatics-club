@@ -28,3 +28,8 @@ Redo analyses for April 10th with corrected protocols.
 1) Add your individual methods/figures to Google Doc
 2) Kaitlyn - Add 2 extra MERS and 2 extra SARS (HUMAN INFECTIONS) to pool
 3) Christian - Add Kaitlyn's new accessions to MOAs and parse using Jupyter 
+
+## Friday, May 15, 2020
+The following sequence was deleted from the MoAs because of no identity
+>lcl|GU553363.1_prot_11 [pseudo=true] [location=27739..27858] [gbkey=CDS]
+MKLLIVLTCISMQLHMHCSTALCI/**TSCA/*RSL/*GTTLG
