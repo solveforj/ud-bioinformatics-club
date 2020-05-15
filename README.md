@@ -32,4 +32,4 @@ Redo analyses for April 10th with corrected protocols.
 ## Friday, May 15, 2020
 The following sequence was deleted from the MoAs because of no identity
 >lcl|GU553363.1_prot_11 [pseudo=true] [location=27739..27858] [gbkey=CDS]
-MKLLIVLTCISMQLHMHCSTALCI/**TSCA/*RSL/*GTTLG
+MKLLIVLTCISMQLHMHCSTALCI**TSCA*RSL*GTTLG
