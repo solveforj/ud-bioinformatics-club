@@ -1,0 +1,1190 @@
+>Cluster 0
+0	7172aa, >NC_012936.1,orf1ab... *
+1	4464aa, >NC_012936.1,orf1a... at 99.91%
+2	4470aa, >NC_001846.1,RNA-directed... at 95.62%
+3	2733aa, >NC_001846.1,RNA-directed... at 97.84%
+>Cluster 1
+0	7096aa, >NC_045512.2,ORF1ab... at 99.94%
+1	4405aa, >NC_045512.2,ORF1a... at 99.91%
+2	7096aa, >MT291836.1,ORF1ab... at 99.94%
+3	4405aa, >MT291836.1,ORF1a... at 99.91%
+4	7096aa, >MT291833.1,ORF1ab... at 99.93%
+5	4405aa, >MT291833.1,ORF1a... at 99.89%
+6	7096aa, >MT291827.1,ORF1ab... at 99.94%
+7	4405aa, >MT291827.1,ORF1a... at 99.91%
+8	7096aa, >MT291826.1,ORF1ab... at 99.93%
+9	4405aa, >MT291826.1,ORF1a... at 99.89%
+10	7096aa, >MT259231.1,orf1ab... at 99.93%
+11	4405aa, >MT259231.1,orf1a... at 99.91%
+12	7096aa, >MT259228.1,orf1ab... at 99.93%
+13	4405aa, >MT259228.1,orf1a... at 99.91%
+14	7096aa, >MN996531.1,orf1ab... at 99.92%
+15	7096aa, >MT019531.1,orf1ab... at 99.93%
+16	7096aa, >MN908947.3,orf1ab... at 99.94%
+17	7096aa, >MT281577.1,ORF1ab... at 99.92%
+18	4405aa, >MT281577.1,ORF1a... at 99.86%
+19	7096aa, >MT226610.1,orf1ab... at 99.62%
+20	7096aa, >MT049951.1,orf1ab... at 99.93%
+21	4405aa, >MT049951.1,orf1ab... at 99.89%
+22	7096aa, >MT121215.1,ORF1ab... at 99.93%
+23	7096aa, >MT039873.1,orf1ab... at 99.94%
+24	7096aa, >MT135044.1,orf1ab... at 99.93%
+25	7096aa, >MT135043.1,orf1ab... at 99.93%
+26	7096aa, >MT135042.1,orf1ab... at 99.93%
+27	7096aa, >MT135041.1,orf1ab... at 99.93%
+28	7096aa, >MT123290.1,orf1ab... at 99.94%
+29	7096aa, >MT123293.2,orf1ab... at 99.90%
+30	7096aa, >MT123292.2,orf1ab... at 99.93%
+31	7096aa, >MT123291.2,orf1ab... at 99.92%
+32	7096aa, >MT276330.1,ORF1ab... at 99.93%
+33	4405aa, >MT276330.1,ORF1a... at 99.91%
+34	7096aa, >MT276329.1,ORF1ab... at 99.93%
+35	4405aa, >MT276329.1,ORF1a... at 99.91%
+36	7096aa, >MT276328.1,ORF1ab... at 99.93%
+37	4405aa, >MT276328.1,ORF1a... at 99.89%
+38	7096aa, >MT293174.1,ORF1ab... at 99.92%
+39	4405aa, >MT293174.1,ORF1a... at 99.89%
+40	7096aa, >MT276327.1,ORF1ab... at 99.92%
+41	4405aa, >MT276327.1,ORF1a... at 99.91%
+42	7096aa, >MT276326.1,ORF1ab... at 99.90%
+43	4405aa, >MT276326.1,ORF1a... at 99.84%
+44	7096aa, >MT276323.1,ORF1ab... at 99.92%
+45	4405aa, >MT276323.1,ORF1a... at 99.89%
+46	7096aa, >MN988713.1,orf1ab... at 99.92%
+47	7096aa, >MT044257.1,orf1ab... at 99.92%
+48	7095aa, >MT039887.1,orf1ab... at 99.94%
+49	7096aa, >MT276331.1,ORF1ab... at 99.90%
+50	4405aa, >MT276331.1,ORF1a... at 99.84%
+51	7096aa, >MT106054.1,orf1ab... at 99.93%
+52	7096aa, >MT039888.1,orf1ab... at 99.90%
+53	7096aa, >MN997409.1,orf1ab... at 99.93%
+54	7097aa, >MT188341.1,orf1ab... *
+55	7096aa, >MT188340.1,orf1ab... at 99.93%
+56	7096aa, >MT188339.1,orf1ab... at 99.99%
+57	7096aa, >MT258382.1,orf1ab... at 99.83%
+58	7096aa, >MT258379.1,orf1ab... at 99.92%
+59	7096aa, >MT192765.1,orf1ab... at 99.93%
+60	7096aa, >MT293195.1,ORF1ab... at 99.92%
+61	4405aa, >MT293195.1,ORF1a... at 99.89%
+62	7096aa, >MT293177.1,ORF1ab... at 99.96%
+63	4405aa, >MT293177.1,ORF1a... at 99.89%
+64	7096aa, >MT293176.1,ORF1ab... at 99.92%
+65	4405aa, >MT293176.1,ORF1a... at 99.89%
+66	7096aa, >MT293213.1,ORF1ab... at 99.87%
+67	4405aa, >MT293213.1,ORF1a... at 99.86%
+68	7096aa, >MT293199.1,ORF1ab... at 99.97%
+69	4405aa, >MT293199.1,ORF1a... at 99.91%
+70	7096aa, >MT020880.1,orf1ab... at 99.94%
+71	7096aa, >MT246466.1,orf1ab... at 99.97%
+72	7096aa, >MT262914.1,ORF1ab... at 99.97%
+73	7096aa, >MT262911.1,ORF1ab... at 99.97%
+74	7096aa, >MT262907.1,ORF1ab... at 99.97%
+75	7096aa, >MT262906.1,ORF1ab... at 99.97%
+76	7096aa, >MT262903.1,ORF1ab... at 99.97%
+77	7096aa, >MT262900.1,ORF1ab... at 99.97%
+78	7096aa, >MT262898.1,ORF1ab... at 99.97%
+79	7096aa, >MT184913.1,orf1ab... at 99.92%
+80	7096aa, >MT184907.1,orf1ab... at 99.94%
+81	7096aa, >MT159721.1,orf1ab... at 99.94%
+82	7091aa, >MT159716.1,orf1ab... at 99.94%
+83	7096aa, >MT159713.1,orf1ab... at 99.94%
+84	7096aa, >MT159710.1,orf1ab... at 99.94%
+85	7096aa, >MT159705.1,orf1ab... at 99.93%
+86	7096aa, >LC529905.1,orf1ab... at 99.94%
+87	7096aa, >MT192773.1,orf1ab... at 99.93%
+88	7096aa, >MT192772.1,orf1ab... at 99.93%
+89	7096aa, >MT192759.1,orf1ab... at 99.94%
+90	7096aa, >MT066176.1,orf1ab... at 99.93%
+91	7096aa, >MT066175.1,orf1ab... at 99.94%
+92	7096aa, >MT072688.1,orf1ab... at 99.94%
+93	7096aa, >MT050493.1,orf1ab... at 99.90%
+94	7096aa, >MT012098.1,orf1ab... at 99.90%
+95	7096aa, >MT039890.1,orf1ab... at 99.92%
+96	7084aa, >MT262993.1,ORF1ab... at 99.94%
+97	4400aa, >MT262993.1,ORF1a... at 99.91%
+98	7096aa, >MT240479.1,orf1ab... at 99.89%
+99	4405aa, >MT240479.1,orf1a... at 99.82%
+100	7096aa, >MT066156.1,orf1ab... at 99.93%
+101	7096aa, >MT276598.1,ORF1ab... at 99.93%
+102	4405aa, >MT276598.1,ORF1a... at 99.91%
+103	7096aa, >MT276597.1,ORF1ab... at 99.93%
+104	4405aa, >MT276597.1,ORF1a... at 99.89%
+105	7096aa, >MT093571.1,orf1ab... at 99.92%
+106	7096aa, >MT292574.1,ORF1ab... at 99.93%
+107	4405aa, >MT292574.1,ORF1a... at 99.89%
+108	7096aa, >MT292573.1,ORF1ab... at 99.93%
+109	4405aa, >MT292573.1,ORF1a... at 99.89%
+110	7096aa, >MT292571.1,ORF1ab... at 99.93%
+111	4405aa, >MT292571.1,ORF1a... at 99.89%
+112	7096aa, >MT233523.1,orf1ab... at 99.93%
+113	7096aa, >MT233519.1,orf1ab... at 99.93%
+114	7096aa, >MT007544.1,orf1ab... at 99.94%
+115	7096aa, >MT126808.1,orf1ab... at 99.93%
+>Cluster 2
+0	7094aa, >NC_003045.1,orf1ab... *
+1	4383aa, >NC_003045.1,orf1a... at 99.91%
+>Cluster 3
+0	2624aa, >NC_034440.1,ORF1b... at 96.53%
+1	7078aa, >NC_019843.3,1AB... *
+2	4391aa, >NC_019843.3,1A... at 99.89%
+3	7078aa, >KT029139.1,orf1ab,AKL59399.1... at 99.56%
+4	4391aa, >KT029139.1,orf1a,AKL59400.1... at 99.27%
+5	7078aa, >KP209311.1,ORF1ab... at 99.68%
+6	4391aa, >KP209311.1,ORF1a... at 99.45%
+7	7078aa, >KT026455.1,ORF1ab... at 99.58%
+8	4391aa, >KT026455.1,ORF1a... at 99.27%
+9	7078aa, >NC_038294.1,ORF1b... at 99.75%
+10	4391aa, >NC_038294.1,ORF1a... at 99.54%
+11	7078aa, >KC776174.1,ORF1ab... at 99.77%
+12	4391aa, >KC776174.1,ORF1a... at 99.59%
+>Cluster 4
+0	7073aa, >NC_004718.3,orf1ab... *
+1	4382aa, >NC_004718.3,orf1a... at 99.93%
+2	7073aa, >MK062184.1,ORF1ab,AYV99815.1... at 99.93%
+3	4382aa, >MK062184.1,ORF1a,AYV99816.1... at 99.84%
+4	7073aa, >GU553363.1,orf1ab... at 100.00%
+5	4382aa, >GU553363.1,orf1a... at 99.93%
+>Cluster 5
+0	6709aa, >NC_002306.3,polyprotein... *
+>Cluster 6
+0	6629aa, >NC_001451.1,ORF1ab... *
+1	3951aa, >NC_001451.1,ORF1a... at 99.77%
+>Cluster 7
+0	6602aa, >NC_010800.1,ORF1ab... *
+1	3951aa, >NC_010800.1,ORF1a,YP_001941165.1... at 99.77%
+>Cluster 8
+0	4388aa, >NC_034440.1,ORF1a... *
+>Cluster 9
+0	1452aa, >NC_002306.3,spike... *
+>Cluster 10
+0	1363aa, >NC_003045.1,spike... *
+>Cluster 11
+0	1360aa, >NC_012936.1,spike... *
+>Cluster 12
+0	1353aa, >NC_019843.3,spike... *
+1	1353aa, >KT029139.1,spike... at 99.78%
+2	1353aa, >KP209311.1,S... at 99.78%
+3	1353aa, >KT026455.1,S... at 99.93%
+4	1353aa, >NC_038294.1,S... at 99.85%
+5	1353aa, >KC776174.1,S... at 99.70%
+>Cluster 13
+0	1345aa, >NC_034440.1,spike... *
+>Cluster 14
+0	1324aa, >NC_001846.1,E2... *
+>Cluster 15
+0	1273aa, >NC_045512.2,surface... *
+1	1273aa, >MT291836.1,surface... at 99.92%
+2	1273aa, >MT291833.1,surface... at 100.00%
+3	1273aa, >MT291827.1,surface... at 100.00%
+4	1273aa, >MT291826.1,surface... at 100.00%
+5	1273aa, >MT259231.1,surface... at 100.00%
+6	1273aa, >MT259228.1,surface... at 100.00%
+7	1273aa, >MN996531.1,spike... at 100.00%
+8	1273aa, >MT019531.1,surface... at 100.00%
+9	1273aa, >MN908947.3,surface... at 100.00%
+10	1273aa, >MT281577.1,surface... at 99.92%
+11	1273aa, >MT226610.1,surface... at 99.92%
+12	1273aa, >MT049951.1,surface... at 99.92%
+13	1273aa, >MT121215.1,S... at 100.00%
+14	1273aa, >MT039873.1,surface... at 100.00%
+15	1273aa, >MT135044.1,S... at 100.00%
+16	1273aa, >MT135043.1,S... at 100.00%
+17	1273aa, >MT135042.1,S... at 100.00%
+18	1273aa, >MT135041.1,S... at 100.00%
+19	1273aa, >MT123290.1,surface... at 100.00%
+20	1273aa, >MT123293.2,surface... at 100.00%
+21	1273aa, >MT123292.2,surface... at 100.00%
+22	1273aa, >MT123291.2,surface... at 100.00%
+23	1273aa, >MT276330.1,surface... at 99.92%
+24	1273aa, >MT276329.1,surface... at 99.92%
+25	1273aa, >MT276328.1,surface... at 100.00%
+26	1273aa, >MT293174.1,surface... at 99.92%
+27	1273aa, >MT276327.1,surface... at 99.92%
+28	1273aa, >MT276326.1,surface... at 100.00%
+29	1273aa, >MT276323.1,surface... at 99.92%
+30	1273aa, >MN988713.1,surface... at 100.00%
+31	1273aa, >MT044257.1,surface... at 100.00%
+32	1273aa, >MT039887.1,surface... at 100.00%
+33	1273aa, >MT276331.1,surface... at 100.00%
+34	1273aa, >MT106054.1,surface... at 100.00%
+35	1273aa, >MT039888.1,surface... at 100.00%
+36	1273aa, >MN997409.1,surface... at 100.00%
+37	1273aa, >MT188341.1,surface... at 100.00%
+38	1273aa, >MT188340.1,surface... at 100.00%
+39	1273aa, >MT188339.1,surface... at 100.00%
+40	1273aa, >MT258382.1,surface... at 99.84%
+41	1273aa, >MT258379.1,surface... at 99.92%
+42	1273aa, >MT192765.1,surface... at 99.92%
+43	1273aa, >MT293195.1,surface... at 99.92%
+44	1273aa, >MT293177.1,surface... at 99.92%
+45	1273aa, >MT293176.1,surface... at 99.92%
+46	1273aa, >MT293213.1,surface... at 99.61%
+47	1273aa, >MT293199.1,surface... at 100.00%
+48	1273aa, >MT020880.1,surface... at 100.00%
+49	1273aa, >MT246466.1,surface... at 100.00%
+50	1273aa, >MT262914.1,surface... at 100.00%
+51	1273aa, >MT262911.1,surface... at 100.00%
+52	1273aa, >MT262907.1,surface... at 100.00%
+53	1273aa, >MT262906.1,surface... at 100.00%
+54	1273aa, >MT262903.1,surface... at 100.00%
+55	1273aa, >MT262900.1,surface... at 100.00%
+56	1273aa, >MT262898.1,surface... at 100.00%
+57	1273aa, >MT184913.1,surface... at 100.00%
+58	1273aa, >MT184907.1,surface... at 100.00%
+59	1273aa, >MT159721.1,surface... at 100.00%
+60	1273aa, >MT159716.1,surface... at 99.92%
+61	1273aa, >MT159713.1,surface... at 100.00%
+62	1273aa, >MT159710.1,surface... at 100.00%
+63	1273aa, >MT159705.1,surface... at 100.00%
+64	1273aa, >LC529905.1,surface... at 100.00%
+65	1273aa, >MT192773.1,surface... at 100.00%
+66	1273aa, >MT192772.1,surface... at 100.00%
+67	1273aa, >MT192759.1,surface... at 100.00%
+68	1273aa, >MT066176.1,surface... at 100.00%
+69	1273aa, >MT066175.1,surface... at 100.00%
+70	1273aa, >MT072688.1,surface... at 100.00%
+71	1273aa, >MT050493.1,surface... at 99.92%
+72	1272aa, >MT012098.1,surface... at 99.92%
+73	1273aa, >MT039890.1,surface... at 99.92%
+74	1273aa, >MT262993.1,surface... at 100.00%
+75	1273aa, >MT240479.1,surface... at 100.00%
+76	1273aa, >MT066156.1,surface... at 100.00%
+77	1273aa, >MT276598.1,surface... at 99.92%
+78	1273aa, >MT276597.1,surface... at 100.00%
+79	1273aa, >MT093571.1,surface... at 99.92%
+80	1273aa, >MT292574.1,surface... at 100.00%
+81	1273aa, >MT292573.1,surface... at 100.00%
+82	1273aa, >MT292571.1,surface... at 100.00%
+83	1273aa, >MT233523.1,surface... at 100.00%
+84	1273aa, >MT233519.1,surface... at 100.00%
+85	1273aa, >MT007544.1,surface... at 99.92%
+86	1273aa, >MT126808.1,surface... at 100.00%
+>Cluster 16
+0	1255aa, >NC_004718.3,E2... *
+1	1255aa, >MK062184.1,spike,AYV99817.1... at 99.84%
+2	1255aa, >GU553363.1,spike... at 99.84%
+>Cluster 17
+0	1226aa, >NC_010800.1,spike... *
+>Cluster 18
+0	1162aa, >NC_001451.1,spike... *
+>Cluster 19
+0	454aa, >NC_012936.1,nucleocapsid... *
+>Cluster 20
+0	454aa, >NC_001846.1,nucleocapsid... *
+>Cluster 21
+0	448aa, >NC_003045.1,nucleocapsid... *
+>Cluster 22
+0	439aa, >NC_012936.1,hemagglutinin-esterase,YP_003029847.1... *
+>Cluster 23
+0	424aa, >NC_003045.1,hemmaglutinin-esterase,NP_150076.1... *
+>Cluster 24
+0	422aa, >NC_004718.3,nucleocapsid... *
+1	422aa, >MK062184.1,nucleocapsid,AYV99827.1... at 100.00%
+2	422aa, >GU553363.1,nucleocapsid... at 100.00%
+>Cluster 25
+0	419aa, >NC_045512.2,nucleocapsid... *
+1	419aa, >MT291836.1,nucleocapsid... at 99.76%
+2	419aa, >MT291833.1,nucleocapsid... at 100.00%
+3	419aa, >MT291827.1,nucleocapsid... at 100.00%
+4	419aa, >MT291826.1,nucleocapsid... at 100.00%
+5	419aa, >MT259231.1,nucleocapsid... at 100.00%
+6	419aa, >MT259228.1,nucleocapsid... at 100.00%
+7	419aa, >MN996531.1,nucleocapsid... at 100.00%
+8	419aa, >MT019531.1,nucleocapsid... at 100.00%
+9	419aa, >MN908947.3,nucleocapsid... at 100.00%
+10	419aa, >MT281577.1,nucleocapsid... at 100.00%
+11	419aa, >MT226610.1,nucleocapsid... at 100.00%
+12	419aa, >MT049951.1,nucleocapsid... at 100.00%
+13	419aa, >MT121215.1,N... at 100.00%
+14	419aa, >MT039873.1,structural... at 100.00%
+15	419aa, >MT135044.1,N... at 100.00%
+16	419aa, >MT135043.1,N... at 99.76%
+17	419aa, >MT135042.1,N... at 100.00%
+18	419aa, >MT135041.1,N... at 100.00%
+19	419aa, >MT123290.1,nucleocapsid... at 99.76%
+20	419aa, >MT123293.2,nucleocapsid... at 100.00%
+21	419aa, >MT123292.2,nucleocapsid... at 100.00%
+22	419aa, >MT123291.2,nucleocapsid... at 100.00%
+23	419aa, >MT276330.1,nucleocapsid... at 99.52%
+24	419aa, >MT276329.1,nucleocapsid... at 99.52%
+25	419aa, >MT276328.1,nucleocapsid... at 100.00%
+26	419aa, >MT293174.1,nucleocapsid... at 100.00%
+27	419aa, >MT276327.1,nucleocapsid... at 99.52%
+28	419aa, >MT276326.1,nucleocapsid... at 100.00%
+29	419aa, >MT276323.1,nucleocapsid... at 100.00%
+30	419aa, >MN988713.1,nucleocapsid... at 99.76%
+31	419aa, >MT044257.1,nucleocapsid... at 100.00%
+32	419aa, >MT039887.1,nucleocapsid... at 100.00%
+33	419aa, >MT276331.1,nucleocapsid... at 100.00%
+34	419aa, >MT106054.1,nucleocapsid... at 100.00%
+35	419aa, >MT039888.1,nucleocapsid... at 99.76%
+36	419aa, >MN997409.1,nucleocapsid... at 100.00%
+37	419aa, >MT188341.1,nucleocapsid... at 100.00%
+38	419aa, >MT188340.1,nucleocapsid... at 100.00%
+39	419aa, >MT188339.1,nucleocapsid... at 100.00%
+40	419aa, >MT258382.1,nucleocapsid... at 99.52%
+41	419aa, >MT258379.1,nucleocapsid... at 99.52%
+42	419aa, >MT192765.1,nucleocapsid... at 100.00%
+43	419aa, >MT293195.1,nucleocapsid... at 100.00%
+44	419aa, >MT293177.1,nucleocapsid... at 100.00%
+45	419aa, >MT293176.1,nucleocapsid... at 100.00%
+46	419aa, >MT293213.1,nucleocapsid... at 100.00%
+47	419aa, >MT293199.1,nucleocapsid... at 100.00%
+48	419aa, >MT020880.1,nucleocapsid... at 100.00%
+49	419aa, >MT246466.1,nucleocapsid... at 100.00%
+50	419aa, >MT262914.1,nucleocapsid... at 100.00%
+51	419aa, >MT262911.1,nucleocapsid... at 100.00%
+52	419aa, >MT262907.1,nucleocapsid... at 100.00%
+53	419aa, >MT262906.1,nucleocapsid... at 100.00%
+54	419aa, >MT262903.1,nucleocapsid... at 100.00%
+55	419aa, >MT262900.1,nucleocapsid... at 100.00%
+56	419aa, >MT262898.1,nucleocapsid... at 100.00%
+57	419aa, >MT184913.1,nucleocapsid... at 99.52%
+58	419aa, >MT184907.1,nucleocapsid... at 100.00%
+59	419aa, >MT159721.1,nucleocapsid... at 100.00%
+60	419aa, >MT159716.1,nucleocapsid... at 100.00%
+61	419aa, >MT159713.1,nucleocapsid... at 100.00%
+62	419aa, >MT159710.1,nucleocapsid... at 100.00%
+63	419aa, >MT159705.1,nucleocapsid... at 100.00%
+64	419aa, >LC529905.1,nucleocapsid... at 99.76%
+65	419aa, >MT192773.1,nucleocapsid... at 100.00%
+66	419aa, >MT192772.1,nucleocapsid... at 100.00%
+67	419aa, >MT192759.1,nucleocapsid... at 100.00%
+68	419aa, >MT066176.1,nucleocapsid... at 100.00%
+69	419aa, >MT066175.1,nucleocapsid... at 100.00%
+70	419aa, >MT072688.1,nucleocapsid... at 100.00%
+71	419aa, >MT050493.1,nucleocapsid... at 100.00%
+72	419aa, >MT012098.1,nucleocapsid... at 100.00%
+73	419aa, >MT039890.1,nucleocapsid... at 100.00%
+74	419aa, >MT262993.1,nucleocapsid... at 100.00%
+75	419aa, >MT240479.1,nucleocapsid... at 100.00%
+76	419aa, >MT066156.1,nucleocapsid... at 100.00%
+77	419aa, >MT276598.1,nucleocapsid... at 99.52%
+78	419aa, >MT276597.1,nucleocapsid... at 100.00%
+79	419aa, >MT093571.1,nucleocapsid... at 100.00%
+80	419aa, >MT292574.1,nucleocapsid... at 99.76%
+81	419aa, >MT292573.1,nucleocapsid... at 99.76%
+82	419aa, >MT292571.1,nucleocapsid... at 99.76%
+83	419aa, >MT233523.1,nucleocapsid... at 99.76%
+84	419aa, >MT233519.1,nucleocapsid... at 99.76%
+85	419aa, >MT007544.1,nucleocapsid... at 100.00%
+86	419aa, >MT126808.1,nucleocapsid... at 100.00%
+>Cluster 26
+0	415aa, >NC_034440.1,nucleocapsid... *
+>Cluster 27
+0	413aa, >NC_019843.3,nucleoprotein,YP_009047211.1... *
+1	413aa, >KT029139.1,nucleoprotein,AKL59408.1... at 99.76%
+2	413aa, >KP209311.1,N... at 99.52%
+3	413aa, >KT026455.1,N... at 99.76%
+4	411aa, >NC_038294.1,N... at 99.51%
+5	413aa, >KC776174.1,N... at 99.52%
+>Cluster 28
+0	409aa, >NC_010800.1,nucleocapsid... *
+>Cluster 29
+0	409aa, >NC_001451.1,nucleocapsid... *
+>Cluster 30
+0	377aa, >NC_002306.3,nucleocapsid... *
+>Cluster 31
+0	278aa, >NC_003045.1,32... *
+>Cluster 32
+0	275aa, >NC_045512.2,ORF3a... *
+1	275aa, >MT291836.1,ORF3a... at 100.00%
+2	275aa, >MT291833.1,ORF3a... at 100.00%
+3	275aa, >MT291827.1,ORF3a... at 100.00%
+4	275aa, >MT291826.1,ORF3a... at 100.00%
+5	275aa, >MT259231.1,ORF3a... at 100.00%
+6	275aa, >MT259228.1,ORF3a... at 100.00%
+7	275aa, >MN996531.1,nonstructural... at 100.00%
+8	275aa, >MT019531.1,ORF3a... at 100.00%
+9	275aa, >MN908947.3,ORF3a... at 100.00%
+10	275aa, >MT281577.1,ORF3a... at 99.64%
+11	275aa, >MT226610.1,ORF3a... at 100.00%
+12	275aa, >MT049951.1,ORF3a... at 100.00%
+13	275aa, >MT039873.1,ORF3a... at 100.00%
+14	275aa, >MT135044.1,ORF3a... at 100.00%
+15	275aa, >MT135043.1,ORF3a... at 100.00%
+16	275aa, >MT135042.1,ORF3a... at 100.00%
+17	275aa, >MT135041.1,ORF3a... at 100.00%
+18	275aa, >MT123290.1,ORF3a... at 100.00%
+19	275aa, >MT123293.2,ORF3a... at 100.00%
+20	275aa, >MT123292.2,ORF3a... at 100.00%
+21	275aa, >MT123291.2,ORF3a... at 100.00%
+22	275aa, >MT276330.1,ORF3a... at 100.00%
+23	275aa, >MT276329.1,ORF3a... at 100.00%
+24	275aa, >MT276328.1,ORF3a... at 100.00%
+25	275aa, >MT293174.1,ORF3a... at 99.64%
+26	275aa, >MT276327.1,ORF3a... at 100.00%
+27	275aa, >MT276326.1,ORF3a... at 99.64%
+28	275aa, >MT276323.1,ORF3a... at 100.00%
+29	275aa, >MN988713.1,orf3a... at 100.00%
+30	275aa, >MT044257.1,orf3a... at 100.00%
+31	275aa, >MT039887.1,orf3a... at 100.00%
+32	275aa, >MT276331.1,ORF3a... at 100.00%
+33	275aa, >MT106054.1,orf3a... at 100.00%
+34	275aa, >MT039888.1,orf3a... at 100.00%
+35	275aa, >MN997409.1,orf3a... at 100.00%
+36	275aa, >MT188341.1,orf3a... at 100.00%
+37	275aa, >MT188340.1,orf3a... at 100.00%
+38	275aa, >MT188339.1,orf3a... at 100.00%
+39	275aa, >MT258382.1,ORF3a... at 99.27%
+40	275aa, >MT258379.1,ORF3a... at 100.00%
+41	275aa, >MT192765.1,ORF3a... at 100.00%
+42	275aa, >MT293195.1,ORF3a... at 99.64%
+43	275aa, >MT293177.1,ORF3a... at 100.00%
+44	275aa, >MT293176.1,ORF3a... at 99.64%
+45	275aa, >MT293213.1,ORF3a... at 99.64%
+46	275aa, >MT293199.1,ORF3a... at 100.00%
+47	275aa, >MT020880.1,orf3a... at 100.00%
+48	275aa, >MT246466.1,ORF3a... at 100.00%
+49	275aa, >MT262914.1,orf3a... at 100.00%
+50	275aa, >MT262911.1,orf3a... at 100.00%
+51	275aa, >MT262907.1,orf3a... at 100.00%
+52	275aa, >MT262906.1,orf3a... at 100.00%
+53	275aa, >MT262903.1,orf3a... at 100.00%
+54	275aa, >MT262900.1,orf3a... at 100.00%
+55	275aa, >MT262898.1,orf3a... at 100.00%
+56	275aa, >MT184913.1,orf3a... at 100.00%
+57	275aa, >MT184907.1,orf3a... at 100.00%
+58	275aa, >MT159721.1,orf3a... at 100.00%
+59	275aa, >MT159716.1,orf3a... at 100.00%
+60	275aa, >MT159713.1,orf3a... at 100.00%
+61	275aa, >MT159710.1,orf3a... at 100.00%
+62	275aa, >MT159705.1,orf3a... at 100.00%
+63	275aa, >LC529905.1,ORF3a... at 99.64%
+64	275aa, >MT192773.1,ORF3a... at 100.00%
+65	275aa, >MT192772.1,ORF3a... at 100.00%
+66	275aa, >MT192759.1,ORF3a... at 100.00%
+67	275aa, >MT066176.1,ORF3a... at 100.00%
+68	275aa, >MT066175.1,ORF3a... at 100.00%
+69	275aa, >MT072688.1,ORF3a... at 100.00%
+70	275aa, >MT050493.1,orf3a... at 100.00%
+71	275aa, >MT012098.1,orf3a... at 100.00%
+72	275aa, >MT039890.1,ORF3a... at 99.27%
+73	275aa, >MT262993.1,ORF3a... at 100.00%
+74	275aa, >MT240479.1,ORF3a... at 100.00%
+75	275aa, >MT066156.1,ORF3a... at 99.64%
+76	275aa, >MT276598.1,ORF3a... at 100.00%
+77	275aa, >MT276597.1,ORF3a... at 100.00%
+78	275aa, >MT093571.1,ORF3a... at 99.64%
+79	275aa, >MT292574.1,ORF3a... at 99.27%
+80	275aa, >MT292573.1,ORF3a... at 99.64%
+81	275aa, >MT292571.1,ORF3a... at 99.64%
+82	275aa, >MT233523.1,ORF3a... at 99.64%
+83	275aa, >MT233519.1,ORF3a... at 99.27%
+84	275aa, >MT007544.1,ORF3a... at 99.64%
+85	275aa, >MT126808.1,orf3a... at 99.64%
+>Cluster 33
+0	274aa, >NC_004718.3,hypothetical... *
+1	274aa, >MK062184.1,ORF3a,AYV99818.1... at 99.64%
+2	274aa, >GU553363.1,hypothetical... at 99.64%
+>Cluster 34
+0	265aa, >NC_012936.1,32... *
+>Cluster 35
+0	262aa, >NC_002306.3,matrix... *
+>Cluster 36
+0	258aa, >NC_034440.1,ORF4b... *
+>Cluster 37
+0	246aa, >NC_019843.3,NS4B... *
+1	246aa, >KT029139.1,orf4b,AKL59404.1... at 99.59%
+2	246aa, >KP209311.1,NS3c... at 99.59%
+3	244aa, >KT026455.1,NS3c... at 98.77%
+4	246aa, >NC_038294.1,NS3C... at 99.59%
+5	246aa, >KC776174.1,ORF4b... at 98.37%
+>Cluster 38
+0	230aa, >NC_003045.1,matrix... *
+>Cluster 39
+0	228aa, >NC_012936.1,membrane... *
+1	228aa, >NC_001846.1,E1... at 95.61%
+>Cluster 40
+0	225aa, >NC_034440.1,ORF5... *
+>Cluster 41
+0	225aa, >NC_001451.1,membrane... *
+>Cluster 42
+0	224aa, >NC_019843.3,NS5... *
+1	224aa, >KT029139.1,orf5,AKL59405.1... at 100.00%
+2	224aa, >KP209311.1,NS3d... at 98.66%
+3	224aa, >KT026455.1,NS3d... at 100.00%
+4	224aa, >NC_038294.1,NS3D... at 100.00%
+5	224aa, >KC776174.1,ORF5... at 99.55%
+>Cluster 43
+0	223aa, >NC_010800.1,membrane... *
+>Cluster 44
+0	222aa, >NC_045512.2,membrane... *
+1	222aa, >MT291836.1,membrane... at 99.55%
+2	222aa, >MT291833.1,membrane... at 100.00%
+3	222aa, >MT291827.1,membrane... at 100.00%
+4	222aa, >MT291826.1,membrane... at 100.00%
+5	222aa, >MT259231.1,membrane... at 100.00%
+6	222aa, >MT259228.1,membrane... at 100.00%
+7	222aa, >MN996531.1,membrane... at 100.00%
+8	222aa, >MT019531.1,membrane... at 100.00%
+9	222aa, >MN908947.3,membrane... at 100.00%
+10	222aa, >MT281577.1,membrane... at 100.00%
+11	222aa, >MT226610.1,membrane... at 100.00%
+12	222aa, >MT049951.1,membrane... at 100.00%
+13	222aa, >MT121215.1,M... at 100.00%
+14	222aa, >MT039873.1,structural... at 100.00%
+15	222aa, >MT135044.1,M... at 100.00%
+16	222aa, >MT135043.1,M... at 100.00%
+17	222aa, >MT135042.1,M... at 100.00%
+18	222aa, >MT135041.1,M... at 100.00%
+19	222aa, >MT123290.1,membrane... at 100.00%
+20	222aa, >MT123293.2,membrane... at 100.00%
+21	222aa, >MT123292.2,membrane... at 100.00%
+22	222aa, >MT123291.2,membrane... at 100.00%
+23	222aa, >MT276330.1,membrane... at 100.00%
+24	222aa, >MT276329.1,membrane... at 100.00%
+25	222aa, >MT276328.1,membrane... at 100.00%
+26	222aa, >MT293174.1,membrane... at 100.00%
+27	222aa, >MT276327.1,membrane... at 100.00%
+28	222aa, >MT276326.1,membrane... at 100.00%
+29	222aa, >MT276323.1,membrane... at 100.00%
+30	222aa, >MN988713.1,membrane... at 100.00%
+31	222aa, >MT044257.1,membrane... at 100.00%
+32	222aa, >MT039887.1,membrane... at 100.00%
+33	222aa, >MT276331.1,membrane... at 100.00%
+34	222aa, >MT106054.1,membrane... at 100.00%
+35	222aa, >MT039888.1,membrane... at 100.00%
+36	222aa, >MN997409.1,membrane... at 100.00%
+37	222aa, >MT188341.1,membrane... at 100.00%
+38	222aa, >MT188340.1,membrane... at 100.00%
+39	222aa, >MT188339.1,membrane... at 100.00%
+40	222aa, >MT258382.1,membrane... at 100.00%
+41	222aa, >MT258379.1,membrane... at 100.00%
+42	222aa, >MT192765.1,membrance... at 100.00%
+43	222aa, >MT293195.1,membrane... at 100.00%
+44	222aa, >MT293177.1,membrane... at 100.00%
+45	222aa, >MT293176.1,membrane... at 100.00%
+46	222aa, >MT293213.1,membrane... at 100.00%
+47	222aa, >MT293199.1,membrane... at 100.00%
+48	222aa, >MT020880.1,membrane... at 100.00%
+49	222aa, >MT246466.1,membrane... at 100.00%
+50	222aa, >MT262914.1,membrane... at 100.00%
+51	222aa, >MT262911.1,membrane... at 100.00%
+52	222aa, >MT262907.1,membrane... at 100.00%
+53	222aa, >MT262906.1,membrane... at 100.00%
+54	222aa, >MT262903.1,membrane... at 100.00%
+55	222aa, >MT262900.1,membrane... at 100.00%
+56	222aa, >MT262898.1,membrane... at 100.00%
+57	222aa, >MT184913.1,membrane... at 100.00%
+58	222aa, >MT184907.1,membrane... at 100.00%
+59	222aa, >MT159721.1,membrane... at 100.00%
+60	222aa, >MT159716.1,membrane... at 100.00%
+61	222aa, >MT159713.1,membrane... at 100.00%
+62	222aa, >MT159710.1,membrane... at 100.00%
+63	222aa, >MT159705.1,membrane... at 100.00%
+64	222aa, >LC529905.1,membrane... at 100.00%
+65	222aa, >MT192773.1,membrane... at 100.00%
+66	222aa, >MT192772.1,membrane... at 100.00%
+67	222aa, >MT192759.1,membrane... at 100.00%
+68	222aa, >MT066176.1,membrane... at 100.00%
+69	222aa, >MT066175.1,membrane... at 100.00%
+70	222aa, >MT072688.1,membrane... at 100.00%
+71	222aa, >MT050493.1,membrane... at 100.00%
+72	222aa, >MT012098.1,membrane... at 100.00%
+73	222aa, >MT039890.1,membrane... at 100.00%
+74	222aa, >MT262993.1,membrane... at 100.00%
+75	222aa, >MT240479.1,membrane... at 100.00%
+76	222aa, >MT066156.1,membrane... at 100.00%
+77	222aa, >MT276598.1,membrane... at 100.00%
+78	222aa, >MT276597.1,membrane... at 100.00%
+79	222aa, >MT093571.1,membrane... at 100.00%
+80	222aa, >MT292574.1,membrane... at 100.00%
+81	222aa, >MT292573.1,membrane... at 100.00%
+82	222aa, >MT292571.1,membrane... at 100.00%
+83	222aa, >MT233523.1,membrane... at 100.00%
+84	222aa, >MT233519.1,membrane... at 100.00%
+85	222aa, >MT007544.1,membrane... at 100.00%
+86	222aa, >MT126808.1,membrane... at 100.00%
+>Cluster 45
+0	221aa, >NC_004718.3,matrix... *
+1	221aa, >MK062184.1,membrane... at 98.64%
+2	221aa, >GU553363.1,membrane... at 99.55%
+>Cluster 46
+0	219aa, >NC_034440.1,membrane... *
+1	219aa, >NC_019843.3,membrane... at 95.43%
+>Cluster 47
+0	219aa, >KT029139.1,membrane... *
+1	219aa, >KP209311.1,M... at 99.09%
+2	219aa, >KT026455.1,M... at 100.00%
+3	219aa, >NC_038294.1,M... at 99.09%
+4	219aa, >KC776174.1,M... at 98.17%
+>Cluster 48
+0	207aa, >NC_012936.1,internal... *
+>Cluster 49
+0	207aa, >NC_003045.1,hypothetical... *
+>Cluster 50
+0	206aa, >NC_002306.3,non-structural... *
+>Cluster 51
+0	154aa, >NC_004718.3,hypothetical... *
+1	154aa, >MK062184.1,ORF3b,AYV99819.1... at 100.00%
+2	154aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 52
+0	133aa, >NC_012936.1,15... *
+>Cluster 53
+0	122aa, >NC_004718.3,hypothetical... *
+1	122aa, >MK062184.1,ORF7a,AYV99823.1... at 100.00%
+2	122aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 54
+0	121aa, >NC_045512.2,ORF7a... *
+1	121aa, >MT291836.1,ORF7a... at 100.00%
+2	121aa, >MT291833.1,ORF7a... at 100.00%
+3	121aa, >MT291827.1,ORF7a... at 100.00%
+4	121aa, >MT291826.1,ORF7a... at 100.00%
+5	121aa, >MT259231.1,ORF7a... at 100.00%
+6	121aa, >MT259228.1,ORF7a... at 100.00%
+7	121aa, >MN996531.1,nonstructural... at 100.00%
+8	121aa, >MT019531.1,ORF7a... at 100.00%
+9	121aa, >MN908947.3,ORF7a... at 100.00%
+10	121aa, >MT281577.1,ORF7a... at 100.00%
+11	121aa, >MT226610.1,ORF7a... at 100.00%
+12	121aa, >MT049951.1,ORF7a... at 100.00%
+13	121aa, >MT039873.1,ORF7a... at 100.00%
+14	121aa, >MT135044.1,ORF7a... at 100.00%
+15	121aa, >MT135043.1,ORF7a... at 100.00%
+16	121aa, >MT135042.1,ORF7a... at 100.00%
+17	121aa, >MT135041.1,ORF7a... at 100.00%
+18	121aa, >MT123290.1,ORF7a... at 100.00%
+19	121aa, >MT123293.2,ORF7a... at 100.00%
+20	121aa, >MT123292.2,ORF7a... at 100.00%
+21	121aa, >MT123291.2,ORF7a... at 100.00%
+22	121aa, >MT276330.1,ORF7a... at 100.00%
+23	121aa, >MT276329.1,ORF7a... at 100.00%
+24	121aa, >MT276328.1,ORF7a... at 100.00%
+25	121aa, >MT293174.1,ORF7a... at 100.00%
+26	121aa, >MT276327.1,ORF7a... at 100.00%
+27	121aa, >MT276326.1,ORF7a... at 100.00%
+28	121aa, >MT276323.1,ORF7a... at 100.00%
+29	121aa, >MN988713.1,orf7a... at 100.00%
+30	121aa, >MT044257.1,orf7a... at 100.00%
+31	121aa, >MT039887.1,orf7a... at 100.00%
+32	121aa, >MT276331.1,ORF7a... at 100.00%
+33	121aa, >MT106054.1,orf7a... at 100.00%
+34	121aa, >MT039888.1,orf7a... at 100.00%
+35	121aa, >MN997409.1,orf7a... at 100.00%
+36	121aa, >MT188341.1,orf7a... at 100.00%
+37	121aa, >MT188340.1,orf7a... at 100.00%
+38	121aa, >MT188339.1,orf7a... at 100.00%
+39	121aa, >MT258382.1,ORF7a... at 100.00%
+40	121aa, >MT258379.1,ORF7a... at 100.00%
+41	121aa, >MT192765.1,ORF7a... at 100.00%
+42	121aa, >MT293195.1,ORF7a... at 100.00%
+43	121aa, >MT293177.1,ORF7a... at 100.00%
+44	121aa, >MT293176.1,ORF7a... at 100.00%
+45	121aa, >MT293213.1,ORF7a... at 100.00%
+46	121aa, >MT293199.1,ORF7a... at 100.00%
+47	121aa, >MT020880.1,orf7a... at 100.00%
+48	121aa, >MT246466.1,ORF7a... at 100.00%
+49	121aa, >MT262914.1,orf7a... at 100.00%
+50	121aa, >MT262911.1,orf7a... at 100.00%
+51	121aa, >MT262907.1,orf7a... at 100.00%
+52	121aa, >MT262906.1,orf7a... at 100.00%
+53	121aa, >MT262903.1,orf7a... at 100.00%
+54	121aa, >MT262900.1,orf7a... at 100.00%
+55	121aa, >MT262898.1,orf7a... at 100.00%
+56	121aa, >MT184913.1,orf7a... at 100.00%
+57	121aa, >MT184907.1,orf7a... at 100.00%
+58	121aa, >MT159721.1,orf7a... at 100.00%
+59	121aa, >MT159716.1,orf7a... at 100.00%
+60	121aa, >MT159713.1,orf7a... at 100.00%
+61	121aa, >MT159710.1,orf7a... at 100.00%
+62	121aa, >MT159705.1,orf7a... at 100.00%
+63	121aa, >LC529905.1,ORF7a... at 100.00%
+64	121aa, >MT192773.1,ORF7a... at 100.00%
+65	121aa, >MT192772.1,ORF7a... at 100.00%
+66	121aa, >MT192759.1,ORF7a... at 100.00%
+67	121aa, >MT066176.1,ORF7a... at 100.00%
+68	121aa, >MT066175.1,ORF7a... at 100.00%
+69	121aa, >MT072688.1,ORF7a... at 100.00%
+70	121aa, >MT050493.1,orf7a... at 100.00%
+71	121aa, >MT012098.1,orf7a... at 100.00%
+72	121aa, >MT039890.1,ORF7a... at 100.00%
+73	121aa, >MT262993.1,ORF7a... at 100.00%
+74	121aa, >MT240479.1,ORF7a... at 100.00%
+75	121aa, >MT066156.1,ORF7a... at 100.00%
+76	121aa, >MT276598.1,ORF7a... at 100.00%
+77	121aa, >MT276597.1,ORF7a... at 100.00%
+78	121aa, >MT093571.1,ORF7a... at 100.00%
+79	121aa, >MT292574.1,ORF7a... at 100.00%
+80	121aa, >MT292573.1,ORF7a... at 100.00%
+81	121aa, >MT292571.1,ORF7a... at 100.00%
+82	121aa, >MT233523.1,ORF7a... at 100.00%
+83	121aa, >MT233519.1,ORF7a... at 100.00%
+84	121aa, >MT007544.1,ORF7a... at 100.00%
+85	121aa, >MT126808.1,orf7a... at 100.00%
+>Cluster 55
+0	121aa, >NC_045512.2,ORF8... *
+1	121aa, >MT291836.1,ORF8... at 99.17%
+2	121aa, >MT291833.1,ORF8... at 99.17%
+3	121aa, >MT291827.1,ORF8... at 100.00%
+4	121aa, >MT291826.1,ORF8... at 99.17%
+5	121aa, >MT259231.1,ORF8... at 100.00%
+6	121aa, >MT259228.1,ORF8... at 100.00%
+7	121aa, >MN996531.1,nonstructural... at 100.00%
+8	121aa, >MT019531.1,ORF8... at 100.00%
+9	121aa, >MN908947.3,ORF8... at 100.00%
+10	121aa, >MT281577.1,ORF8... at 100.00%
+11	121aa, >MT226610.1,ORF8... at 99.17%
+12	121aa, >MT049951.1,ORF8... at 99.17%
+13	121aa, >MT039873.1,ORF8... at 100.00%
+14	121aa, >MT135044.1,ORF8... at 99.17%
+15	121aa, >MT135043.1,ORF8... at 99.17%
+16	121aa, >MT135042.1,ORF8... at 99.17%
+17	121aa, >MT135041.1,ORF8... at 99.17%
+18	121aa, >MT123290.1,ORF8... at 100.00%
+19	121aa, >MT123293.2,ORF8... at 100.00%
+20	121aa, >MT123292.2,ORF8... at 99.17%
+21	121aa, >MT123291.2,ORF8... at 100.00%
+22	121aa, >MT276330.1,ORF8... at 100.00%
+23	121aa, >MT276329.1,ORF8... at 100.00%
+24	121aa, >MT276328.1,ORF8... at 100.00%
+25	121aa, >MT293174.1,ORF8... at 100.00%
+26	121aa, >MT276327.1,ORF8... at 100.00%
+27	121aa, >MT276326.1,ORF8... at 100.00%
+28	121aa, >MT276323.1,ORF8... at 100.00%
+29	121aa, >MN988713.1,orf8... at 98.35%
+30	121aa, >MT044257.1,orf8... at 98.35%
+31	121aa, >MT039887.1,orf8... at 100.00%
+32	121aa, >MT276331.1,ORF8... at 100.00%
+33	121aa, >MT106054.1,orf8... at 98.35%
+34	121aa, >MT039888.1,orf8... at 100.00%
+35	121aa, >MN997409.1,orf8... at 99.17%
+36	121aa, >MT188341.1,orf8... at 99.17%
+37	121aa, >MT188340.1,orf8... at 100.00%
+38	121aa, >MT188339.1,orf8... at 99.17%
+39	121aa, >MT258382.1,ORF8... at 100.00%
+40	121aa, >MT258379.1,ORF8... at 100.00%
+41	121aa, >MT192765.1,ORF8... at 100.00%
+42	121aa, >MT293195.1,ORF8... at 100.00%
+43	121aa, >MT293177.1,ORF8... at 99.17%
+44	121aa, >MT293176.1,ORF8... at 100.00%
+45	121aa, >MT293213.1,ORF8... at 100.00%
+46	121aa, >MT293199.1,ORF8... at 99.17%
+47	121aa, >MT020880.1,orf8... at 99.17%
+48	121aa, >MT246466.1,ORF8... at 99.17%
+49	121aa, >MT262914.1,orf8... at 99.17%
+50	121aa, >MT262911.1,orf8... at 99.17%
+51	121aa, >MT262907.1,orf8... at 99.17%
+52	121aa, >MT262906.1,orf8... at 99.17%
+53	121aa, >MT262903.1,orf8... at 99.17%
+54	121aa, >MT262900.1,orf8... at 99.17%
+55	121aa, >MT262898.1,orf8... at 99.17%
+56	121aa, >MT184913.1,orf8... at 100.00%
+57	121aa, >MT184907.1,orf8... at 100.00%
+58	121aa, >MT159721.1,orf8... at 100.00%
+59	121aa, >MT159716.1,orf8... at 100.00%
+60	121aa, >MT159713.1,orf8... at 100.00%
+61	121aa, >MT159710.1,orf8... at 100.00%
+62	121aa, >MT159705.1,orf8... at 100.00%
+63	121aa, >LC529905.1,ORF8... at 100.00%
+64	121aa, >MT192773.1,ORF8... at 100.00%
+65	121aa, >MT192772.1,ORF8... at 100.00%
+66	121aa, >MT192759.1,ORF8... at 100.00%
+67	121aa, >MT066176.1,ORF8... at 100.00%
+68	121aa, >MT066175.1,ORF8... at 99.17%
+69	121aa, >MT072688.1,ORF8... at 100.00%
+70	121aa, >MT050493.1,orf8... at 99.17%
+71	121aa, >MT012098.1,orf8... at 100.00%
+72	121aa, >MT039890.1,ORF8... at 100.00%
+73	121aa, >MT262993.1,ORF8... at 100.00%
+74	121aa, >MT240479.1,ORF8... at 100.00%
+75	121aa, >MT066156.1,ORF8... at 100.00%
+76	121aa, >MT276598.1,ORF8... at 100.00%
+77	121aa, >MT276597.1,ORF8... at 100.00%
+78	121aa, >MT093571.1,ORF8... at 100.00%
+79	121aa, >MT292574.1,ORF8... at 99.17%
+80	121aa, >MT292573.1,ORF8... at 99.17%
+81	121aa, >MT292571.1,ORF8... at 99.17%
+82	121aa, >MT233523.1,ORF8... at 99.17%
+83	121aa, >MT233519.1,ORF8... at 99.17%
+84	121aa, >MT007544.1,ORF8... at 100.00%
+85	121aa, >MT126808.1,orf8... at 100.00%
+>Cluster 56
+0	112aa, >NC_019843.3,ORF8b... *
+1	112aa, >KC776174.1,ORF8b... at 100.00%
+>Cluster 57
+0	109aa, >NC_034440.1,ORF4a... *
+>Cluster 58
+0	109aa, >NC_003045.1,12.7... *
+>Cluster 59
+0	109aa, >NC_019843.3,NS4A... *
+1	109aa, >KT029139.1,orf4a,AKL59403.1... at 99.08%
+2	109aa, >KP209311.1,NS3b... at 100.00%
+3	109aa, >KT026455.1,NS3b... at 98.17%
+4	109aa, >NC_038294.1,NS3B... at 99.08%
+5	109aa, >KC776174.1,ORF4a... at 98.17%
+>Cluster 60
+0	108aa, >NC_001451.1,small... *
+>Cluster 61
+0	103aa, >NC_019843.3,NS3... *
+1	103aa, >KT029139.1,orf3,AKL59402.1... at 96.12%
+2	103aa, >KP209311.1,NS3a... at 98.06%
+3	103aa, >KT026455.1,NS3a... at 96.12%
+4	103aa, >NC_038294.1,NS3A... at 98.06%
+5	103aa, >KC776174.1,ORF3... at 95.15%
+>Cluster 62
+0	101aa, >NC_034440.1,ORF3... *
+>Cluster 63
+0	101aa, >NC_002306.3,non-structural... *
+>Cluster 64
+0	99aa, >NC_010800.1,envelope... *
+>Cluster 65
+0	98aa, >NC_004718.3,hypothetical... *
+1	98aa, >MK062184.1,ORF9b,AYV99828.1... at 100.00%
+2	98aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 66
+0	94aa, >NC_010800.1,hypothetical... *
+>Cluster 67
+0	88aa, >NC_012936.1,envelope... *
+>Cluster 68
+0	84aa, >NC_003045.1,small... *
+>Cluster 69
+0	84aa, >NC_004718.3,hypothetical... *
+1	84aa, >MK062184.1,ORF8b,AYV99826.1... at 100.00%
+2	84aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 70
+0	82aa, >NC_034440.1,small... *
+>Cluster 71
+0	82aa, >NC_010800.1,5b... *
+>Cluster 72
+0	82aa, >NC_001451.1,5b... *
+>Cluster 73
+0	82aa, >NC_002306.3,E... *
+>Cluster 74
+0	82aa, >NC_019843.3,envelope... *
+1	82aa, >KT029139.1,envelope... at 100.00%
+2	82aa, >KP209311.1,E... at 100.00%
+3	82aa, >KT026455.1,E... at 100.00%
+4	82aa, >NC_038294.1,E... at 100.00%
+5	82aa, >KC776174.1,E... at 100.00%
+>Cluster 75
+0	75aa, >NC_045512.2,envelope... at 96.00%
+1	75aa, >MT291836.1,envelope... at 96.00%
+2	75aa, >MT291833.1,envelope... at 96.00%
+3	75aa, >MT291827.1,envelope... at 96.00%
+4	75aa, >MT291826.1,envelope... at 96.00%
+5	75aa, >MT259231.1,envelope... at 96.00%
+6	75aa, >MT259228.1,envelope... at 96.00%
+7	75aa, >MN996531.1,envelope... at 96.00%
+8	75aa, >MT019531.1,envelope... at 96.00%
+9	75aa, >MN908947.3,envelope... at 96.00%
+10	75aa, >MT281577.1,envelope... at 96.00%
+11	75aa, >MT226610.1,envelope... at 96.00%
+12	75aa, >MT049951.1,envelope... at 96.00%
+13	75aa, >MT121215.1,E... at 96.00%
+14	75aa, >MT039873.1,structural... at 96.00%
+15	75aa, >MT135044.1,E... at 96.00%
+16	75aa, >MT135043.1,E... at 96.00%
+17	75aa, >MT135042.1,E... at 96.00%
+18	75aa, >MT135041.1,E... at 96.00%
+19	75aa, >MT123290.1,envelope... at 96.00%
+20	75aa, >MT123293.2,envelope... at 96.00%
+21	75aa, >MT123292.2,envelope... at 96.00%
+22	75aa, >MT123291.2,envelope... at 96.00%
+23	75aa, >MT276330.1,envelope... at 96.00%
+24	75aa, >MT276329.1,envelope... at 96.00%
+25	75aa, >MT276328.1,envelope... at 96.00%
+26	75aa, >MT293174.1,envelope... at 96.00%
+27	75aa, >MT276327.1,envelope... at 96.00%
+28	75aa, >MT276326.1,envelope... at 96.00%
+29	75aa, >MT276323.1,envelope... at 96.00%
+30	75aa, >MN988713.1,envelope... at 96.00%
+31	75aa, >MT044257.1,envelope... at 96.00%
+32	75aa, >MT039887.1,envelope... at 96.00%
+33	75aa, >MT276331.1,envelope... at 96.00%
+34	75aa, >MT106054.1,envelope... at 96.00%
+35	75aa, >MT039888.1,envelope... at 96.00%
+36	75aa, >MN997409.1,envelope... at 96.00%
+37	75aa, >MT188341.1,envelope... at 96.00%
+38	75aa, >MT188340.1,envelope... at 96.00%
+39	75aa, >MT188339.1,envelope... at 96.00%
+40	75aa, >MT258382.1,envelope... at 96.00%
+41	75aa, >MT258379.1,envelope... at 96.00%
+42	75aa, >MT192765.1,envelope... at 96.00%
+43	75aa, >MT293195.1,envelope... at 96.00%
+44	75aa, >MT293177.1,envelope... at 96.00%
+45	75aa, >MT293176.1,envelope... at 96.00%
+46	75aa, >MT293213.1,envelope... at 96.00%
+47	75aa, >MT293199.1,envelope... at 96.00%
+48	75aa, >MT020880.1,envelope... at 96.00%
+49	75aa, >MT246466.1,envelope... at 96.00%
+50	75aa, >MT262914.1,envelope... at 96.00%
+51	75aa, >MT262911.1,envelope... at 96.00%
+52	75aa, >MT262907.1,envelope... at 96.00%
+53	75aa, >MT262906.1,envelope... at 96.00%
+54	75aa, >MT262903.1,envelope... at 96.00%
+55	75aa, >MT262900.1,envelope... at 96.00%
+56	75aa, >MT262898.1,envelope... at 96.00%
+57	75aa, >MT184913.1,envelope... at 96.00%
+58	75aa, >MT184907.1,envelope... at 96.00%
+59	75aa, >MT159721.1,envelope... at 96.00%
+60	75aa, >MT159716.1,envelope... at 96.00%
+61	75aa, >MT159713.1,envelope... at 96.00%
+62	75aa, >MT159710.1,envelope... at 96.00%
+63	75aa, >MT159705.1,envelope... at 96.00%
+64	75aa, >LC529905.1,envelope... at 96.00%
+65	75aa, >MT192773.1,envelope... at 96.00%
+66	75aa, >MT192772.1,envelope... at 96.00%
+67	75aa, >MT192759.1,envelope... at 96.00%
+68	75aa, >MT066176.1,envelope... at 96.00%
+69	75aa, >MT066175.1,envelope... at 96.00%
+70	75aa, >MT072688.1,envelope... at 96.00%
+71	75aa, >MT050493.1,envelope... at 96.00%
+72	75aa, >MT012098.1,envelope... at 96.00%
+73	76aa, >NC_004718.3,protein... *
+74	76aa, >MK062184.1,envelope,AYV99820.1... at 100.00%
+75	76aa, >GU553363.1,envelope... at 100.00%
+>Cluster 76
+0	75aa, >MT039890.1,envelope... *
+1	75aa, >MT262993.1,envelope... at 98.67%
+2	75aa, >MT240479.1,envelope... at 98.67%
+3	75aa, >MT066156.1,envelope... at 98.67%
+4	75aa, >MT276598.1,envelope... at 98.67%
+5	75aa, >MT276597.1,envelope... at 98.67%
+6	75aa, >MT093571.1,envelope... at 98.67%
+7	75aa, >MT292574.1,envelope... at 98.67%
+8	75aa, >MT292573.1,envelope... at 98.67%
+9	75aa, >MT292571.1,envelope... at 98.67%
+10	75aa, >MT233523.1,envelope... at 98.67%
+11	75aa, >MT233519.1,envelope... at 98.67%
+12	75aa, >MT007544.1,envelope... at 98.67%
+13	75aa, >MT126808.1,envelope... at 98.67%
+>Cluster 77
+0	71aa, >NC_002306.3,putative... *
+>Cluster 78
+0	71aa, >NC_002306.3,putative... *
+>Cluster 79
+0	70aa, >GU553363.1,hypothetical... *
+>Cluster 80
+0	65aa, >NC_010800.1,5a... *
+>Cluster 81
+0	65aa, >NC_001451.1,5a... *
+>Cluster 82
+0	64aa, >NC_010800.1,3b... *
+>Cluster 83
+0	64aa, >NC_001451.1,3b... *
+>Cluster 84
+0	63aa, >NC_004718.3,hypothetical... *
+1	63aa, >MK062184.1,ORF6,AYV99822.1... at 100.00%
+2	63aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 85
+0	61aa, >NC_045512.2,ORF6... *
+1	61aa, >MT291836.1,ORF6... at 98.36%
+2	61aa, >MT291833.1,ORF6... at 100.00%
+3	61aa, >MT291827.1,ORF6... at 100.00%
+4	61aa, >MT291826.1,ORF6... at 100.00%
+5	61aa, >MT259231.1,ORF6... at 100.00%
+6	61aa, >MT259228.1,ORF6... at 100.00%
+7	61aa, >MN996531.1,nonstructural... at 100.00%
+8	61aa, >MT019531.1,ORF6... at 100.00%
+9	61aa, >MN908947.3,ORF6... at 100.00%
+10	61aa, >MT281577.1,ORF6... at 100.00%
+11	61aa, >MT226610.1,ORF6... at 100.00%
+12	61aa, >MT049951.1,ORF6... at 100.00%
+13	61aa, >MT039873.1,ORF6... at 100.00%
+14	61aa, >MT135044.1,ORF6... at 100.00%
+15	61aa, >MT135043.1,ORF6... at 100.00%
+16	61aa, >MT135042.1,ORF6... at 100.00%
+17	61aa, >MT135041.1,ORF6... at 100.00%
+18	61aa, >MT123290.1,ORF6... at 100.00%
+19	61aa, >MT123293.2,ORF6... at 100.00%
+20	61aa, >MT123292.2,ORF6... at 100.00%
+21	61aa, >MT123291.2,ORF6... at 100.00%
+22	61aa, >MT276330.1,ORF6... at 100.00%
+23	61aa, >MT276329.1,ORF6... at 100.00%
+24	61aa, >MT276328.1,ORF6... at 100.00%
+25	61aa, >MT293174.1,ORF6... at 100.00%
+26	61aa, >MT276327.1,ORF6... at 100.00%
+27	61aa, >MT276326.1,ORF6... at 100.00%
+28	61aa, >MT276323.1,ORF6... at 100.00%
+29	61aa, >MN988713.1,orf6... at 100.00%
+30	61aa, >MT044257.1,orf6... at 100.00%
+31	61aa, >MT039887.1,orf6... at 100.00%
+32	61aa, >MT276331.1,ORF6... at 100.00%
+33	61aa, >MT106054.1,orf6... at 100.00%
+34	61aa, >MT039888.1,orf6... at 100.00%
+35	61aa, >MN997409.1,orf6... at 100.00%
+36	61aa, >MT188341.1,orf6... at 100.00%
+37	61aa, >MT188340.1,orf6... at 100.00%
+38	61aa, >MT188339.1,orf6... at 100.00%
+39	61aa, >MT258382.1,ORF6... at 100.00%
+40	61aa, >MT258379.1,ORF6... at 100.00%
+41	61aa, >MT192765.1,ORF6... at 100.00%
+42	61aa, >MT293195.1,ORF6... at 100.00%
+43	61aa, >MT293177.1,ORF6... at 100.00%
+44	61aa, >MT293176.1,ORF6... at 100.00%
+45	61aa, >MT293213.1,ORF6... at 100.00%
+46	61aa, >MT293199.1,ORF6... at 100.00%
+47	61aa, >MT020880.1,orf6... at 100.00%
+48	61aa, >MT246466.1,ORF6... at 100.00%
+49	61aa, >MT262914.1,orf6... at 100.00%
+50	61aa, >MT262911.1,orf6... at 100.00%
+51	61aa, >MT262907.1,orf6... at 100.00%
+52	61aa, >MT262906.1,orf6... at 100.00%
+53	61aa, >MT262903.1,orf6... at 100.00%
+54	61aa, >MT262900.1,orf6... at 100.00%
+55	61aa, >MT262898.1,orf6... at 100.00%
+56	61aa, >MT184913.1,orf6... at 100.00%
+57	61aa, >MT184907.1,orf6... at 100.00%
+58	61aa, >MT159721.1,orf6... at 100.00%
+59	61aa, >MT159716.1,orf6... at 100.00%
+60	61aa, >MT159713.1,orf6... at 100.00%
+61	61aa, >MT159710.1,orf6... at 100.00%
+62	61aa, >MT159705.1,orf6... at 100.00%
+63	61aa, >LC529905.1,ORF6... at 100.00%
+64	61aa, >MT192773.1,ORF6... at 100.00%
+65	61aa, >MT192772.1,ORF6... at 100.00%
+66	61aa, >MT192759.1,ORF6... at 100.00%
+67	61aa, >MT066176.1,ORF6... at 100.00%
+68	61aa, >MT066175.1,ORF6... at 100.00%
+69	61aa, >MT072688.1,ORF6... at 100.00%
+70	61aa, >MT050493.1,orf6... at 100.00%
+71	61aa, >MT012098.1,orf6... at 100.00%
+72	61aa, >MT039890.1,ORF6... at 100.00%
+73	61aa, >MT262993.1,ORF6... at 100.00%
+74	61aa, >MT240479.1,ORF6... at 100.00%
+75	61aa, >MT066156.1,ORF6... at 100.00%
+76	61aa, >MT276598.1,ORF6... at 100.00%
+77	61aa, >MT276597.1,ORF6... at 100.00%
+78	61aa, >MT093571.1,ORF6... at 100.00%
+79	61aa, >MT292574.1,ORF6... at 100.00%
+80	61aa, >MT292573.1,ORF6... at 100.00%
+81	61aa, >MT292571.1,ORF6... at 100.00%
+82	61aa, >MT233523.1,ORF6... at 100.00%
+83	61aa, >MT233519.1,ORF6... at 100.00%
+84	61aa, >MT007544.1,ORF6... at 100.00%
+85	61aa, >MT126808.1,orf6... at 100.00%
+>Cluster 86
+0	57aa, >NC_010800.1,3a... *
+>Cluster 87
+0	57aa, >NC_001451.1,3a... *
+>Cluster 88
+0	45aa, >NC_003045.1,4.8... *
+>Cluster 89
+0	44aa, >NC_004718.3,hypothetical... *
+1	44aa, >MK062184.1,ORF7b,AYV99824.1... at 100.00%
+2	44aa, >GU553363.1,hypothetical... at 100.00%
+>Cluster 90
+0	43aa, >NC_045512.2,ORF7b,YP_009725318.1... *
+1	43aa, >MT291836.1,ORF7b,QIU81891.1... at 100.00%
+2	43aa, >MT291833.1,ORF7b,QIU81855.1... at 100.00%
+3	43aa, >MT291827.1,ORF7b,QIU81783.1... at 100.00%
+4	43aa, >MT291826.1,ORF7b,QIU81771.1... at 100.00%
+5	43aa, >MT259231.1,ORF7b... at 100.00%
+6	43aa, >MT259228.1,ORF7b... at 100.00%
+7	43aa, >MN996531.1,nonstructural... at 100.00%
+8	43aa, >MT281577.1,ORF7b,QIU80919.1... at 100.00%
+9	43aa, >MT049951.1,ORF7b,QIA20050.1... at 100.00%
+10	43aa, >MT276330.1,ORF7b,QIT06969.1... at 100.00%
+11	43aa, >MT276329.1,ORF7b,QIT06957.1... at 100.00%
+12	43aa, >MT276328.1,ORF7b,QIT06945.1... at 100.00%
+13	43aa, >MT293174.1,ORF7b,QIU81147.1... at 100.00%
+14	43aa, >MT276327.1,ORF7b,QIT06933.1... at 100.00%
+15	43aa, >MT276326.1,ORF7b,QIT06921.1... at 100.00%
+16	43aa, >MT276323.1,ORF7b,QIT06885.1... at 100.00%
+17	43aa, >MT276331.1,ORF7b,QIT06981.1... at 100.00%
+18	43aa, >MT192765.1,ORF7b... at 100.00%
+19	43aa, >MT293195.1,ORF7b,QIU81399.1... at 100.00%
+20	43aa, >MT293177.1,ORF7b,QIU81183.1... at 100.00%
+21	43aa, >MT293176.1,ORF7b,QIU81171.1... at 100.00%
+22	43aa, >MT293213.1,ORF7b,QIU81615.1... at 100.00%
+23	43aa, >MT293199.1,ORF7b,QIU81447.1... at 100.00%
+24	43aa, >LC529905.1,ORF7b... at 100.00%
+25	43aa, >MT262993.1,ORF7b,QIS60282.1... at 100.00%
+26	43aa, >MT240479.1,ORF7b,QIQ22766.1... at 100.00%
+27	43aa, >MT276598.1,ORF7b,QIT07005.1... at 100.00%
+28	43aa, >MT276597.1,ORF7b,QIT06993.1... at 100.00%
+29	43aa, >MT292574.1,ORF7b,QIU78773.1... at 100.00%
+30	43aa, >MT292573.1,ORF7b,QIU78761.1... at 100.00%
+31	43aa, >MT292571.1,ORF7b,QIU78737.1... at 100.00%
+>Cluster 91
+0	39aa, >NC_004718.3,hypothetical... *
+1	39aa, >MK062184.1,ORF8a,AYV99825.1... at 100.00%
+>Cluster 92
+0	38aa, >NC_045512.2,ORF10... *
+1	38aa, >MT291836.1,ORF10... at 100.00%
+2	38aa, >MT291833.1,ORF10... at 100.00%
+3	38aa, >MT291827.1,ORF10... at 100.00%
+4	38aa, >MT291826.1,ORF10... at 100.00%
+5	38aa, >MT259231.1,ORF10... at 100.00%
+6	38aa, >MT259228.1,ORF10... at 100.00%
+7	38aa, >MT019531.1,ORF10... at 100.00%
+8	38aa, >MN908947.3,ORF10... at 100.00%
+9	38aa, >MT281577.1,ORF10... at 100.00%
+10	38aa, >MT226610.1,ORF10... at 100.00%
+11	38aa, >MT049951.1,ORF10... at 100.00%
+12	38aa, >MT039873.1,ORF10... at 100.00%
+13	38aa, >MT135044.1,ORF10... at 100.00%
+14	38aa, >MT135043.1,ORF10... at 100.00%
+15	38aa, >MT135042.1,ORF10... at 100.00%
+16	38aa, >MT135041.1,ORF10... at 100.00%
+17	38aa, >MT123290.1,ORF10... at 100.00%
+18	38aa, >MT123293.2,ORF10... at 100.00%
+19	38aa, >MT123292.2,ORF10... at 100.00%
+20	38aa, >MT123291.2,ORF10... at 100.00%
+21	38aa, >MT276330.1,ORF10... at 100.00%
+22	38aa, >MT276329.1,ORF10... at 100.00%
+23	38aa, >MT276328.1,ORF10... at 100.00%
+24	38aa, >MT293174.1,ORF10... at 100.00%
+25	38aa, >MT276327.1,ORF10... at 100.00%
+26	38aa, >MT276326.1,ORF10... at 100.00%
+27	38aa, >MT276323.1,ORF10... at 100.00%
+28	38aa, >MN988713.1,orf10... at 100.00%
+29	38aa, >MT044257.1,orf10... at 100.00%
+30	38aa, >MT039887.1,orf10... at 100.00%
+31	38aa, >MT276331.1,ORF10... at 100.00%
+32	38aa, >MT106054.1,orf10... at 100.00%
+33	38aa, >MT039888.1,orf10... at 100.00%
+34	38aa, >MN997409.1,orf10... at 100.00%
+35	38aa, >MT188341.1,orf10... at 100.00%
+36	38aa, >MT188340.1,orf10... at 100.00%
+37	38aa, >MT188339.1,orf10... at 100.00%
+38	38aa, >MT258382.1,ORF10... at 100.00%
+39	38aa, >MT258379.1,ORF10... at 100.00%
+40	38aa, >MT192765.1,ORF10... at 100.00%
+41	38aa, >MT293195.1,ORF10... at 100.00%
+42	38aa, >MT293177.1,ORF10... at 100.00%
+43	38aa, >MT293176.1,ORF10... at 100.00%
+44	38aa, >MT293213.1,ORF10... at 100.00%
+45	38aa, >MT293199.1,ORF10... at 100.00%
+46	38aa, >MT020880.1,orf10... at 100.00%
+47	38aa, >MT246466.1,ORF10... at 100.00%
+48	38aa, >MT262914.1,ORF10... at 100.00%
+49	38aa, >MT262911.1,ORF10... at 100.00%
+50	38aa, >MT262907.1,ORF10... at 100.00%
+51	38aa, >MT262906.1,ORF10... at 100.00%
+52	38aa, >MT262903.1,ORF10... at 100.00%
+53	38aa, >MT262900.1,ORF10... at 100.00%
+54	38aa, >MT262898.1,ORF10... at 100.00%
+55	38aa, >MT184913.1,orf10... at 100.00%
+56	38aa, >MT184907.1,orf10... at 100.00%
+57	38aa, >MT159721.1,orf10... at 100.00%
+58	38aa, >MT159716.1,orf10... at 100.00%
+59	38aa, >MT159713.1,orf10... at 100.00%
+60	38aa, >MT159710.1,orf10... at 100.00%
+61	38aa, >MT159705.1,orf10... at 100.00%
+62	38aa, >LC529905.1,ORF10... at 100.00%
+63	38aa, >MT192773.1,ORF10... at 100.00%
+64	38aa, >MT192772.1,ORF10... at 100.00%
+65	38aa, >MT192759.1,ORF10... at 100.00%
+66	38aa, >MT066176.1,ORF10... at 100.00%
+67	38aa, >MT066175.1,ORF10... at 100.00%
+68	38aa, >MT072688.1,ORF10... at 100.00%
+69	38aa, >MT050493.1,orf10... at 100.00%
+70	38aa, >MT012098.1,orf10... at 100.00%
+71	38aa, >MT039890.1,ORF10... at 100.00%
+72	38aa, >MT262993.1,ORF10... at 100.00%
+73	38aa, >MT240479.1,ORF10... at 100.00%
+74	38aa, >MT066156.1,ORF10... at 100.00%
+75	38aa, >MT276598.1,ORF10... at 100.00%
+76	38aa, >MT276597.1,ORF10... at 100.00%
+77	38aa, >MT093571.1,ORF10... at 100.00%
+78	38aa, >MT292574.1,ORF10... at 100.00%
+79	38aa, >MT292573.1,ORF10... at 100.00%
+80	38aa, >MT292571.1,ORF10... at 100.00%
+81	38aa, >MT233523.1,ORF10... at 100.00%
+82	38aa, >MT233519.1,ORF10... at 100.00%
+83	38aa, >MT007544.1,ORF10... at 100.00%
+84	38aa, >MT126808.1,orf10... at 100.00%
+>Cluster 93
+0	29aa, >NC_003045.1,4.9... *
